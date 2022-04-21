@@ -5,6 +5,9 @@
 
 二，[用Rust实现区块链 - 2 工作量证明(PoW)](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484469&idx=1&sn=c722722580f9838b9136cf3ac6611c8e&chksm=cfc2a956f8b520405e0aa11fc1484d3b676f6f9b19cb536165e7fb0602d4db03f63167dcf59b&token=1151139300&lang=zh_CN#rd)  
 
+三，[用Rust实现区块链 - 3 持久化](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484477&idx=1&sn=cf1789dcbc1a7ca9381539e36314a2e9&chksm=cfc2a95ef8b52048027a6466c097f5954815a50e29ba0a22687fc6f218a552378e963ff6a9a2&token=1609755589&lang=zh_CN#rd)  
+
+
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
