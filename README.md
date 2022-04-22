@@ -7,6 +7,7 @@
 
 三，[用Rust实现区块链 - 3 持久化](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484477&idx=1&sn=cf1789dcbc1a7ca9381539e36314a2e9&chksm=cfc2a95ef8b52048027a6466c097f5954815a50e29ba0a22687fc6f218a552378e963ff6a9a2&token=1609755589&lang=zh_CN#rd)  
 
+四，[用Rust实现区块链 - 4 交易与UTXO集合](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484487&idx=1&sn=01802f8dc60ac7dd1924888937b65d50&chksm=cfc2a924f8b520326a25718a2b97e24aac25355578ab727ae5fd6e907030ec39cc434cb90752&token=1933715555&lang=zh_CN#rd)  
 
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
