@@ -11,6 +11,8 @@
 
 五，[用Rust实现区块链 - 5 钱包](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484495&idx=1&sn=4eea98f046a92bb9e87163bab44aff68&chksm=cfc2a92cf8b5203af27a527d01f1cf699d77089a3ad2e7082fc7e707ae2885e96a611a8069f8&token=391513474&lang=zh_CN#rd)  
 
+六，[用Rust实现区块链 - 6 点对点网络(P2P)](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484503&idx=1&sn=82427d27153bce04488b95878e7584f0&chksm=cfc2a934f8b5202274556e6ea3294b48dc8ee5075f559fce65f7ce91d9a2619e70a915252d20&token=2032429111&lang=zh_CN#rd)  
+
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
 ![Image](https://github.com/Justin02180218/distribute-election-bully/blob/master/qrcode_for_gh_8a5b7b90c100_258.jpg)
